@@ -8,6 +8,6 @@ package pruebaslocales;
  *
  * @author PC
  */
-public class Rama {
+public class ComoQuierasSecuela {
     
 }

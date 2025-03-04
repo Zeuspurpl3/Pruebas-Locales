@@ -13,6 +13,9 @@ public class Principal {
         System.out.println("Estamos haciendo una prueba, aprendiendo Git");
         ComoQuieras.pintarMensaje("OtroMensaje");
         Rama1 miRama= new Rama1();
-       miRama.
+       miRama.escribirMensaje("Practicnado con la primera rama");
+       Rama2 miRama2=new Rama2();
+       miRama2.escribirMensaje("Hola");
     }
+    
 }
