@@ -19,6 +19,7 @@ public class Principal {
        ComoQuierasSecuela c1=new ComoQuierasSecuela();
        c1.escribirMensaje("Mensaje de como quieras secuela");
        //Comentario para commit
+        //Comentario para pull
     }
     
 }
