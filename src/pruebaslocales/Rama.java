@@ -8,11 +8,6 @@ package pruebaslocales;
  *
  * @author PC
  */
-public class Principal {
-    public static void main(String[] args) {
-        System.out.println("Estamos haciendo una prueba, aprendiendo Git");
-        ComoQuieras.pintarMensaje("OtroMensaje");
-        Rama1 miRama= new Rama1();
-       miRama.
-    }
+public class Rama {
+    
 }
